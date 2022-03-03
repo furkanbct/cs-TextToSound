@@ -1,2 +1,2 @@
-# cs-TextToSound
+# C# TextToSound
 C# Text to Sound
